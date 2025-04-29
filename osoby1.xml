@@ -11,11 +11,11 @@
         <kredity>12</kredity>
     </osoba>
     <osoba osCislo='R1246'>
-        <jmeno>Hana</jmeno>
-        <prijmeni>Holíková</prijmeni>
+        <jmeno>Jiři</jmeno>
+        <prijmeni>Pavlík</prijmeni>
         <stav>nestuduje</stav>
         <obor>MATAP</obor>
         <rocnik>1</rocnik>
-        <pohlavi>žena</pohlavi>
+        <pohlavi>muž</pohlavi>
     </osoba>
 </osoby>
